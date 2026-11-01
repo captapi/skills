@@ -1,0 +1,13 @@
+{
+  "name": "captapi-skills",
+  "version": "1.0.0",
+  "description": "Research workflows on live public social media data, powered by Captapi: outlier posts, comment mining, competitor teardowns, ad library teardowns, trends, Reddit demand, video repurposing and creator vetting.",
+  "author": {
+    "name": "Captapi",
+    "url": "https://captapi.com"
+  },
+  "homepage": "https://captapi.com",
+  "repository": "https://github.com/CDCStream/captapi-skills",
+  "license": "MIT",
+  "keywords": ["social-media", "research", "youtube", "tiktok", "instagram", "reddit", "ad-library", "mcp", "agent-skills"]
+}

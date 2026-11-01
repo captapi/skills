@@ -1,0 +1,19 @@
+{
+  "name": "captapi-skills",
+  "owner": {
+    "name": "Captapi",
+    "url": "https://captapi.com"
+  },
+  "metadata": {
+    "description": "Social media research skills for AI agents: outlier posts, comment mining, competitor teardowns, ad library teardowns, trends, Reddit demand, video repurposing and creator vetting.",
+    "version": "1.0.0",
+    "repository": "https://github.com/CDCStream/captapi-skills"
+  },
+  "plugins": [
+    {
+      "name": "captapi-skills",
+      "description": "Research workflows on live public social media data, powered by Captapi.",
+      "source": "./"
+    }
+  ]
+}
