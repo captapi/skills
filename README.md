@@ -7,13 +7,13 @@ Each skill is a plain `SKILL.md` file that follows the [Agent Skills](https://ag
 ## Install
 
 ```bash
-npx skills add CDCStream/captapi-skills
+npx skills add captapi/skills
 ```
 
 Claude Code plugin:
 
 ```text
-/plugin marketplace add CDCStream/captapi-skills
+/plugin marketplace add captapi/skills
 /plugin install captapi-skills@captapi-skills
 ```
 
